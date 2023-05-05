@@ -26,11 +26,13 @@ As a first step, run these commands to get the CLI up and started.
 
 
 
-Using poetry you can also create a Wheel and then install the cli into your machine on the path.
+Here are some sample calls with the new CLi commands
 
 
-        poetry build
-        cd dist
-        pip install cms475-202320-final-0.1.0-py3-none-any.whl
+        cli1 --image "C:\Users\amaan\OneDrive\Pictures\fgo shenanigans\mash wallpaper.jpg"
+        cli2 --city "London"
+        cli3 --usd 45.5
+        bigcli cli4
+        bigcli cli5
+        
 
-Look in the *./dist* folder to get the actual name of the wheel you created.
