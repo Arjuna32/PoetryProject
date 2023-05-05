@@ -26,13 +26,13 @@ As a first step, run these commands to get the CLI up and started.
 
 
 
-Here are some sample calls with the new CLi commands
+Here are some sample calls with the new CLI commands.
 
-
-        cli1 --image "C:\Users\amaan\OneDrive\Pictures\fgo shenanigans\mash wallpaper.jpg"
-        cli2 --city "London"
-        cli3 --usd 45.5
-        bigcli cli4
-        bigcli cli5
+                        
+        cli1 --image "C:\Users\amaan\OneDrive\Pictures\fgo shenanigans\mash wallpaper.jpg" (changes your desktop wallpaper)
+        cli2 --city "London" (gets the weather for a city you input)
+        cli3 --usd 45.5 (converts US dollars to euros)
+        bigcli cli4 (generates a random password of 12 characters)
+        bigcli cli5 (displays the top news headlines)
         
 
