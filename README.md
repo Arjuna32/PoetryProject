@@ -25,6 +25,8 @@ My implementations:
 3. cli3: converts US dollars to euros
 4. cli4:generates a random password of 12 characters
 5. cli5:displays the top news headlines
+
+
 As a first step, run these commands to get the CLI up and started.
 
         cd cmsc475-202320-final-Arjuna32
