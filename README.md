@@ -23,8 +23,8 @@ My implementations:
 1. cli1: changes your desktop wallpaper
 2. cli2: gets the weather for a city you input
 3. cli3: converts US dollars to euros
-4. cli4:generates a random password of 12 characters
-5. cli5:displays the top news headlines
+4. cli4: generates a random password of 12 characters
+5. cli5: displays the top news headlines
 
 
 As a first step, run these commands to get the CLI up and started.
